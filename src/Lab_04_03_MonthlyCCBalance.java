@@ -5,6 +5,7 @@ public class Lab_04_03_MonthlyCCBalance {
         double balance = 5000;
         int count = 1;
 
+        //Print
         while (count <= 2)
         {
             balance = balance * 1.17;
